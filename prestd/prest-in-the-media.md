@@ -35,6 +35,8 @@ Dive into presentations highlighting the features and benefits of pREST.
 11. [Constant work to onboarding new members into engineering team](https://dev.to/prestd/constant-work-to-onboarding-new-members-into-engineering-team-18k0)
 12. [ProductHunt: pREST](https://www.producthunt.com/products/prest)
 13. [pREST vs InfluxDB](https://www.libhunt.com/compare-prest-vs-influxdb)
+14. [Postman for pREST](https://video-kt.postman.co/workspace/pREST~6458836a-1c6b-45da-8eec-5bfd5438355d/collection/3794370-64366564-fd7c-4075-8d0d-171ff00ef8bf)
+15. [Preliminary study on the usage of pREST (chinese)](https://goroutine.cn/zh-CN/article/8ab70394-1f2c-400b-baab-b0457496773a)
 
 ### Social Media Graphics
 
